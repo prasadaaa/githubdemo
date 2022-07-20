@@ -13,6 +13,7 @@ public class Test1
 		int y=sc.nextInt();
 		int z=x+y;
 		System.out.println("total is: "+z);
-		
+		System.out.println(z);
+
 	}
 }
